@@ -6,9 +6,11 @@ Remember, in order for the tool to work, a folder must be created in the root di
 
 If you get error like below, the folder is not located in the root directory of your Apache server.
 
-> \> System cannot find specified path.
->
-> \> Certificate creation failed.
+```bash
+> System cannot find specified path.
+
+> Certificate creation failed.
+```
 
 ## Usage
 
